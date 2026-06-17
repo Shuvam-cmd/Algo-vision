@@ -22,7 +22,7 @@
 
 ## 🚀 Introduction
 
-AlgoArena is a dynamic, interactive platform for comparing algorithm performance in real-time. Race different algorithms head-to-head to visualize their efficiency and learn about computational complexity in an engaging way.
+AlgoVision is a dynamic, interactive platform for comparing algorithm performance in real-time. Race different algorithms head-to-head to visualize their efficiency and learn about computational complexity in an engaging way.
 
 ## ✨ Key Features
 
