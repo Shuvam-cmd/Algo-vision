@@ -12,7 +12,7 @@
 
 ## 📋 Quick Links
 
-- [Live Demo]((https://algovision-shuvam.netlify.app/))
+[Live Demo](https://algovision-shuvam.netlify.app/)
 - [Features](#features)
 - [How to Use](#how-to-use)
 - [Technical Details](#technical-details)
