@@ -63,12 +63,6 @@ AlgoVision is a dynamic, interactive platform for comparing algorithm performanc
 
 ## 🛠️ Installation
 
-```bash
-# Clone repository
-git clone https://github.com/yourusername/CoderArmy-AlgoArena.git
-
-# Navigate to project directory
-cd CoderArmy-AlgoArena
 
 # Install dependencies
 npm install
